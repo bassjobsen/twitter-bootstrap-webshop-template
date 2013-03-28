@@ -1,0 +1,207 @@
+/*http://www.colorcombos.com/color-schemes/14/ColorCombo14.html*/
+html
+{
+	font-size: 100%
+}	
+body 
+{
+	font-family: 'Droid Serif', Arial, serif; font-weight: 400; 				
+}
+
+#header h1
+{
+	
+	color: #fff;
+	font-family: 'Lemon', cursive;
+}
+
+.catheader
+{
+	border: 1px solid lightgray; 
+	background-color: #8C489F;
+}
+
+#header h2, .catheader h2
+{
+	color: #F1F0FF;
+	font-family: 'Lemon', cursive;
+}
+
+.catheader h2
+{
+	margin-left: 10px;
+}
+
+
+
+#header, #sidebar
+{
+/* IE9 SVG, needs conditional override of 'filter' to 'none' */
+background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzhjNDg5ZiIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiM3ZGI5ZTgiIHN0b3Atb3BhY2l0eT0iMCIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+background: -moz-linear-gradient(left, rgba(140,72,159,1) 0%, rgba(125,185,232,0) 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgba(140,72,159,1)), color-stop(100%,rgba(125,185,232,0))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(left, rgba(140,72,159,1) 0%,rgba(125,185,232,0) 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(left, rgba(140,72,159,1) 0%,rgba(125,185,232,0) 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(left, rgba(140,72,159,1) 0%,rgba(125,185,232,0) 100%); /* IE10+ */
+background: linear-gradient(to right, rgba(140,72,159,1) 0%,rgba(125,185,232,0) 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8c489f', endColorstr='#007db9e8',GradientType=1 ); /* IE6-8 */
+}
+#header
+{
+text-align: center;
+}
+#header
+{
+    -webkit-border-radius: 10px 0 0 0;
+    -moz-border-radius: 10px 0 0 0;
+    border-radius: 10px 0 0 0;
+}
+
+#logo
+{
+ padding:10px;
+}
+
+#searchbutton
+{
+	background-color: #8C489F;
+    background-image: -moz-linear-gradient(center top , #8C489F, #8C489F);
+    background-repeat: repeat-x;
+    border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+    color: #FFFFFF;
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+}    
+#footer, .underround
+{
+    -webkit-border-radius: 0 0 10px 10px;
+    -moz-border-radius: 0 0 10px 10px;
+    border-radius: 0 0 10px 10px;
+}
+#maincontent
+{
+    background-color:#fff;min-height:400px;
+    padding-bottom: 20px;
+}
+#maincontent .row
+{
+padding:10px 0 0 10px;
+}
+.allround
+{
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -khtml-border-radius: 10px;
+    border-radius: 10px;
+}
+
+.productitem
+{
+border: 1px solid lightgray;
+position: relative;
+}
+
+.productitemfull
+{
+background-color: lightgray;
+}
+.productitem h3
+{
+font-family: 'Neuton', serif;
+font-weight: 400;
+font-size:140%;
+line-height:normal;
+color:#443266;
+}
+
+.productitem .discount
+{
+position:absolute;top:140px;
+}
+
+.productitemimagewrapper
+{
+background-color:#fff;
+}
+
+.productitemimage
+{
+text-align:center;
+min-height: 210px;
+}
+
+.productitemimage img
+{
+text-align:center;
+max-height: 200px;
+min-height: 200px;
+}
+
+
+
+.productitemdescription
+{
+background-color: lightgray;
+padding: 5px;
+}
+
+#footer{
+	background-color: #443266;
+	color: #fff;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    border-top: solid 1px #B76EB8;	
+}
+
+#footer a
+{
+color:#fff;
+text-decoration:underline;
+}
+
+
+/*  superfish menu */
+.sg-menu {font-family: Arial,serif;}
+.sf-menu li {
+    background: none repeat scroll 0 0 #8C489F;
+  
+}
+
+.sf-menu a, .sf-menu a:visited {
+    color: #fff;
+}
+.sf-menu a {
+    border-left: 1px solid #FFFFFF;
+    border-top: 1px solid #CFDEFF;
+    padding: 0.75em 1em;
+    text-decoration: none;
+}
+
+.breadcrumb {
+    background-color: #fff;
+}    
+
+.breadcrumb > .active
+{
+	color: #443266;
+}
+.center
+{
+ text-align:center;
+}
+
+.searchresultitem
+{
+margin-bottom:10px;
+}
+
+.cartbuttonwrapper
+{
+text-align:center;
+padding-bottom:10px;
+}
+.moreinfolink
+{
+line-height: 30px;
+padding-left: 5px;
+}
+
