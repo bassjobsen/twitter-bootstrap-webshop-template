@@ -25,12 +25,13 @@ Page Templates
     
 
 Support
+
 I'm always happy to help you. If you have any question regarding this template. Send me a message or contact me on twitter @bassjobsen.
 
 Credits
 
-    [http://twitter.github.com/bootstrap/](http://twitter.github.com/bootstrap/)
-    [http://www.jquery.com/](http://www.jquery.com/)
-    [http://users.tpg.com.au/j_birch/plugins/superfish/] (Superfish)
-    [http://www.itemmaster.com/](http://www.itemmaster.com/) (product images)
+    [Bootstrap](http://twitter.github.com/bootstrap/)
+    [jQuery](http://www.jquery.com/)
+    [Superfish](http://users.tpg.com.au/j_birch/plugins/superfish/)
+    [Itemmaster](http://www.itemmaster.com/) (product images)
 
