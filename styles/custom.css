@@ -61,16 +61,44 @@ text-align: center;
 {
  padding:10px;
 }
+/* custom button from http://twitterbootstrapbuttons.w3masters.nl */
 
-#searchbutton
-{
-	background-color: #8C489F;
-    background-image: -moz-linear-gradient(center top , #8C489F, #8C489F);
-    background-repeat: repeat-x;
-    border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
-    color: #FFFFFF;
-    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
-}    
+.btn-search.active {
+  color: rgba(255, 255, 255, 0.75);
+}
+.btn-search {
+  color: #ffffff;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+  background-color: #9652a9;
+  background-image: -moz-linear-gradient(top, #8c489f, #a562b8);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#8c489f), to(#a562b8));
+  background-image: -webkit-linear-gradient(top, #8c489f, #a562b8);
+  background-image: -o-linear-gradient(top, #8c489f, #a562b8);
+  background-image: linear-gradient(to bottom, #8c489f, #a562b8);
+  background-repeat: repeat-x;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff8c489f', endColorstr='#ffa562b8', GradientType=0);
+  border-color: #a562b8 #a562b8 #7d408d;
+  border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+  *background-color: #a562b8;
+  /* Darken IE7 buttons by default so they stand out more given they won't have borders */
+
+  filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
+}
+.btn-search:hover,
+.btn-search:focus,
+.btn-search:active,
+.btn-search.active,
+.btn-search.disabled,
+.btn-search[disabled] {
+  color: #ffffff;
+  background-color: #a562b8;
+  *background-color: #9b51b0;
+}
+.btn-search:active,
+.btn-search.active {
+  background-color: #8c489f ;
+}
+    
 #footer, .underround
 {
     -webkit-border-radius: 0 0 10px 10px;
