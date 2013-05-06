@@ -6,7 +6,7 @@ Twitter Bootstrap Webshop Template with vertical menu
 
 This sample code (powered by [W3Masters](http://www.w3masters.nl/) and [Twitter Bootstrap](http://twitter.github.com/bootstrap/) demonstrates how to build a Webshop with Twitter Bootstrap.
 
-To see te code in action try [the demo](http://www.w3masters.nl/webshop/).
+To see te code in action try [the demo](http://www.w3masters.nl/webshop/). In the /bootstrap3/ map you will find the same template ready for Twitter Bootstrap 3. Read more about the migration to Twitter Bootstrap 3 on my blog: [Migrate your templates from Twitter Bootstrap 2.x to Twitter Bootstrap 3](http://bassjobsen.weblogs.fm/migrate-your-templates-from-twitter-bootstrap-2-x-to-twitter-bootstrap-3/)
 
 Main Features
 
