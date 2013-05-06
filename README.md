@@ -29,7 +29,7 @@ Page Templates
 Support
 -------
 
-I'm always happy to help you. If you have any question regarding this template. Send me a message or contact me on twitter [http://twitter.com/bassjobsen](@bassjobsen).
+I'm always happy to help you. If you have any question regarding this template. Send me a message or contact me on twitter [@bassjobsen](http://twitter.com/bassjobsen).
 
 Credits
 -------
