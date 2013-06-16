@@ -39,3 +39,6 @@ Credits
 * [Superfish](http://users.tpg.com.au/j_birch/plugins/superfish/)
 * [Itemmaster](http://www.itemmaster.com/) (product images)
 
+Example
+-------
+![Screendump temlate home](http://bassjobsen.weblogs.fm/wp-content/uploads/2013/03/webshop-300x238.png)
