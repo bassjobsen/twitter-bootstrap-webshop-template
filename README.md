@@ -25,12 +25,12 @@ Page Templates
 WordPress Theme
 ---------------
 
-	The version for Twitter's Bootstrap 3 is also available as WordPress Theme. Download [JBST E-commerce Child Theme](https://github.com/bassjobsen/jbst-e-commerce-child-theme). This is a child theme for [Jamedo's Bootstrap Start Theme (JBST)]().  
+The version for Twitter's Bootstrap 3 is also available as WordPress Theme. Download [JBST E-commerce Child Theme](https://github.com/bassjobsen/jbst-e-commerce-child-theme). This is a child theme for [Jamedo's Bootstrap Start Theme (JBST)](https://github.com/bassjobsen/jamedo-bootstrap-start-theme).  
 
 Support
 -------
 
-	I'm always happy to help you. If you have any question regarding this template. Send me a message or contact me on twitter [@bassjobsen](http://twitter.com/bassjobsen).
+I'm always happy to help you. If you have any question regarding this template. Send me a message or contact me on twitter [@bassjobsen](http://twitter.com/bassjobsen).
 
 Credits
 -------
