@@ -27,8 +27,8 @@
 		
     <div class="container" id="headercontainer">
     <div class="row" id="header">
-		<div class="col-span-2"><img src="images/logo.png" id="logo"></div>
-		<div class="col-span-10">
+		<div class="col-sm-2"><img src="images/logo.png" id="logo"></div>
+		<div class="col-sm-10">
 		<h1>Your webshop</h1>
 		<h2>About your products</h2>
 		</div>		
@@ -38,34 +38,37 @@
 		
 		<div class="row" id="sidebar">
 			
-	<div class="col-span-2 navbar">
-	<div class="container">			
-    <!-- .navbar-toggle is used as the toggle for collapsed navbar content -->
+<div class="col-sm-3 col-md-3 col-lg-2">
+<div class="navbar navbar-default" role="navigation">
+  <div class="navbar-header">
+
     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-responsive-collapse">
+      <span class="sr-only">Toggle navigation</span>
       <span class="icon-bar"></span>
       <span class="icon-bar"></span>
       <span class="icon-bar"></span>
     </button>
-
+   </div>
+   
 	<br><br>
     <!-- Place everything within .navbar-collapse to hide it until above 768px -->
-    <div class="nav-collapse collapse navbar-responsive-collapse">
+    <div class="collapse navbar-collapse navbar-responsive-collapse">
             	<ul class="sf-menu sf-vertical">
 					<li><a href="category.html">Category 1</a></li>
 					<li><a href="category.html">Category 2</a></li>
 					<li><a href="category.html">Category 3</a></li>
 				</ul>
     </div><!-- /.nav-collapse -->
-  </div><!-- /.container -->
-</div><!-- /.navbar -->		
+  
+</div><!-- /.navbar -->	
 			
-
+	</div>	
 			
-			<div class="col-span-10 allround" id="maincontent">
+			<div class="col-sm-10 allround" id="maincontent">
 				
 				
 				<div class="row">
-					<div class="col-span-12">
+					<div class="col-sm-12">
 						
 						<ul class="breadcrumb">
 						  <li><a href="index.html">Home</a></li>
@@ -76,15 +79,17 @@
 					</div>	
 				</div>
 				<div class="row">
-							<div class="input-group col-span-8 col-offset-2">
-								<input type="text">
-							  <span class="input-group-btn">
-								<button class="btn btn-search" type="button">Search</button>
-							  </span>
-							</div>
+							<div class="col-sm-8">
+    <div class="input-group">
+      <input type="text" class="form-control">
+      <span class="input-group-btn">
+        <button class="btn btn-search" type="button">Search</button>
+      </span>
+    </div><!-- /input-group -->
+				</div>	
 				</div>	
 				<div class="row">	
-				<div class="col-span-10 col-offset-2">
+				<div class="col-sm-9 col-md-9 col-lg-10 col-offset-2">
 					
 					<div class="searchresultitem">
 						<a href="more.html">Peanut Brittle Ice Cream</a><br>
@@ -142,7 +147,7 @@
 		
 				
 				<div class="row">
-				<div class="col-span-12 center">	
+				<div class="col-sm-12 center">	
 				  <ul class="pagination">
 					<li><span class="disabled">&laquo;</span></li>
 					<li><span class="active">1</span></li>
@@ -163,10 +168,10 @@
 	</div>	
     <div class="container">
     <div class="row" id="footer">
-    <div class="col-span-7">
+    <div class="col-sm-7">
 		Company name, steet address 13th 506668 New York, USA
 	</div>
-	<div class="col-span-5">
+	<div class="col-sm-5">
 		&copy; 2013 Company name /
 		<a href="#">Disclaimer</a>
 		/

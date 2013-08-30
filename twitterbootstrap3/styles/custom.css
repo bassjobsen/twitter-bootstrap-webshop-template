@@ -8,6 +8,8 @@ body
 	font-family: 'Droid Serif', Arial, serif; font-weight: 400; 				
 }
 
+.navbar {background:none; border:none;}
+
 #header h1
 {
 	
